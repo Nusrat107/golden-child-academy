@@ -64,10 +64,11 @@ body {
   color: var(--default-color);
   background-color: var(--background-color);
   font-family: var(--default-font);
+  font-weight: bold;
 }
 
 a {
-  color: var(--accent-color);
+  color: green;
   text-decoration: none;
   transition: 0.3s;
 }
